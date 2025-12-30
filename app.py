@@ -23,5 +23,4 @@ ax.axis("equal")
 ax.grid(True)
 ax.legend()
 
-st.pyplot(fig)||
-Προσθήκη app.py
+st.pyplot(fig)
